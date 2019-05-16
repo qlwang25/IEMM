@@ -1,6 +1,3 @@
-# IEMM
-
-
-code of the event extraction
+# event extraction
 
 paper under view..
